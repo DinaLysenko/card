@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/card/static/css/main.31d6cfe0.css",
+    "main.js": "/card/static/js/main.41377e66.js",
+    "static/js/787.4b846e2a.chunk.js": "/card/static/js/787.4b846e2a.chunk.js",
+    "static/media/Rectangle 1.svg": "/card/static/media/Rectangle 1.de6ff603deaed3a7d745cff266741a53.svg",
+    "index.html": "/card/index.html",
+    "main.41377e66.js.map": "/card/static/js/main.41377e66.js.map",
+    "787.4b846e2a.chunk.js.map": "/card/static/js/787.4b846e2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.41377e66.js"
+  ]
+}
